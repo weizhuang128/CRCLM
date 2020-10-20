@@ -4,7 +4,7 @@ library("monocle")
 library(dplyr)
 library(tidyr)
 library(reshape2)
-library(liger)
+
 
 
 #################################################
