@@ -8,8 +8,10 @@ library(RColorBrewer)
 library("monocle")
 library(dbscan)
 
+###########please download files from figshare: https://figshare.com/s/d3e33d8a53163737481d
 
-setwd("E:/BaiduNetdiskDownload/S_aggr12/S_aggr12/14sample_fil")
+
+setwd("####################################")
 ###########load files
 pbmc<-readRDS("20210228_14sample_fil_Bcell_pbmc_reclustering.rds")
 pbmc_pure<-readRDS("20210228_14sample_fil_Bcell_pbmc_reclusteringpbmc_pure.rds")
