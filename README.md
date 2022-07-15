@@ -15,12 +15,13 @@ R Package requirements:
 
 Install and Run method:
 
-1. Place each file in the CRCLM/ folder under the same folder named "work_folder/"
-2. Create two folders "outs/filtered_feature_bc_matrix/" and "outputs/" in work_folder/. Put the read file of 10X single cell sequencing into
-outs/filtered_feature_bc_matrix/
+1. Place each file in the CRCLM/ folder under the same folder named "CRCLM-master/"
+2. Create two folders "/filtered_feature_bc_matrix/" and "outputs/" in CRCLM-master/normal_scRNA_seq_analysis/. Put the read file of 10X single cell sequencing into
+/filtered_feature_bc_matrix/
 3. Install all dependent packages in R, and run R code
-4. The results of the operation will be automatically output to outputs/
+4. The results of the operation will be automatically output
 5. If want to use the data that has been analyzed to perform other analyses in our paper, please run corresponding R files, please also find the dependent files in CRCLM/.
+6. Any questions please email zhuangwei128@@gmail.com Please remove an @ when you send.
 
 License:
 
