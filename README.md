@@ -18,7 +18,7 @@ Install and Run method:
 1. Place each file in the CRCLM/ folder under the same folder named "work_folder/"
 2. Create two folders "outs/filtered_feature_bc_matrix/" and "outputs/" in work_folder/. Put the read file of 10X single cell sequencing into
 outs/filtered_feature_bc_matrix/
-3. Install all dependent packages in R, and run Figure2 reclustering of B cell population.R code
+3. Install all dependent packages in R, and run R code
 4. The results of the operation will be automatically output to outputs/
 
 License:
