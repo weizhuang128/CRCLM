@@ -20,6 +20,7 @@ Install and Run method:
 outs/filtered_feature_bc_matrix/
 3. Install all dependent packages in R, and run R code
 4. The results of the operation will be automatically output to outputs/
+5. If want to use the data that has been analyzed to perform other analyses in our paper, please run corresponding R files, please also find the dependent files in CRCLM/.
 
 License:
 
